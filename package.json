@@ -1,7 +1,7 @@
 {
   "name": "miniPaint",
   "version": "4.2.3",
-  "author": "Vilius L.",
+  "author": "ARMTRUE",
   "description": "Online graphics editing tool lets create, edit images using HTML5 technologies.",
   "keywords": [
     "canvas",
@@ -17,10 +17,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/viliusle/miniPaint"
+    "url": "https://arwutr.github.io/10/"
   },
-  "homepage": "https://github.com/viliusle/miniPaint",
-  "license": "MIT",
+  "homepage": "https://arwutr.github.io/10/",
+  "license": "ARM",
   "devDependencies": {
     "babel-core": "^6.26.3",
     "babel-loader": "^7.1.5",
